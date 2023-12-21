@@ -47,7 +47,7 @@ You should either watch all the lecture videos or read chapters 1 through 47 in 
 
 ### Prerequisites
 
-This class requires a lot of experience programming in C. You should finish one of the C books listed in the [resources below](#c) *before* starting this course; if you try to learn C at the same time as the course material, you're likely to feel overwhelmed. If you haven't used C before, you should expect to spend a lot of time on this; it's hard to predict how long it might take for each person, but a rough estimate might be 8-10 hours per week for 3-5 weeks. You can always learn C alongside another OSSU course or even redo the exercises for other courses in C to gain practice with it.
+This class requires a lot of experience programming in C. You should finish one of the C books listed in the [resources below](#c-1) *before* starting this course; if you try to learn C at the same time as the course material, you're likely to feel overwhelmed. If you haven't used C before, you should expect to spend a lot of time on this; it's hard to predict how long it might take for each person, but a rough estimate might be 8-10 hours per week for 3-5 weeks. You can always learn C alongside another OSSU course or even redo the exercises for other courses in C to gain practice with it.
 
 You should also finish both parts of Nand2Tetris before starting this course. OSTEP focuses on the real-world x86 and x86_64 architectures, so you'll have to fill in some gaps in order to translate the concepts you learned in Nand2Tetris to a new architecture. You can do that with the x86 resources below, but note that they all assume you know C, so learn that first. This should take around 6-8 hours in total.
 
@@ -77,7 +77,7 @@ This course was originally taught as CS 537 at the University of Wisconsin by th
 * Watch discussion 5, then do the `scheduling-xv6-lottery` project.
 * Watch discussion 7, then do the `vm-xv6-intro` project.
 * Watch lectures 6 through 9 (and optionally, the review lecture) and read chapters 25 through 34; again, you're encouraged to do the homework.
-* Watch discussion 10, then do the `concurency-xv6-threads` project.
+* Watch discussion 10, then do the `concurrency-xv6-threads` project.
 * Watch discussions 11 and 12, then do the `concurrency-mapreduce` project.
 * Watch lectures 10 through 14 (and optionally, the second review lecture) and read chapters 35 through 47; remember to do the homework along with the lectures or chapters.
 * Do the `filesystems-checker` project.
